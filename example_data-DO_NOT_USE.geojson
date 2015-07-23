@@ -1,0 +1,7730 @@
+[
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Girard Av",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.218615,
+        39.973059
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "40th St &amp; Filbert St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.201901,
+        39.957929
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "13th St Trolley Station",
+      "trolleys": "10, 34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.162559,
+        39.952532
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "36th St Trolley Portal Station",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.194233,
+        39.955451
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 48th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.217035,
+        39.972244
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 49th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.212665,
+        39.940767
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "40th St Trolley Portal",
+      "trolleys": "34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.203333,
+        39.949595
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 49th St",
+      "trolleys": "11, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.212582,
+        39.940955
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 62nd St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.230599,
+        39.928267
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; Island Av",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.246245,
+        39.917304
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Darby Transportation Center - troll",
+      "trolleys": "11, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.262317,
+        39.91904
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 50th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.213848,
+        39.940064
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Kingsessing Av &amp; Cemetary Av - Mt M",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.235461,
+        39.92889
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 58th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.228572,
+        39.935653
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 49th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.216622,
+        39.944041
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 49th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.216527,
+        39.944281
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 58th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.2285,
+        39.935832
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Kingsessing Av &amp; Cemetery Av - Mt M",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.235413,
+        39.929069
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; Allen Dr Yeadon Loop",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.252447,
+        39.924685
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Richmond St &amp; Westmoreland St Loop",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.099458,
+        39.984253
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Front St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.136075,
+        39.968903
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Broad St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.159275,
+        39.971499
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 40th St - FS",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.204543,
+        39.974159
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 59th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.237334,
+        39.970224
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 59th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.237523,
+        39.970099
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 40th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.204531,
+        39.974043
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Broad St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.159594,
+        39.971428
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Frankford Av &amp; Girard Av",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.134351,
+        39.968774
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 61st St Angora Loop",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.246343,
+        39.943811
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 49th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.221404,
+        39.948101
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 49th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.221109,
+        39.948261
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 73rd St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.241732,
+        39.914335
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Loop",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.242677,
+        39.91405
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Island Av &amp; 80th St Eastwick Loop",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.239319,
+        39.898668
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Aramingo St &amp; Cumberland St - detou",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.1198,
+        39.97654
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Aramingo Av &amp; Moyer St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.120832,
+        39.975552
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "69th St Transportation Center South",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.258296,
+        39.962052
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Rolling Rd &amp; Scenic Rd",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.326721,
+        39.941056
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Orange St Station - MBNS",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.393998,
+        39.918478
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Pk &amp; Brainerd Blvd - FS",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.278078,
+        39.906343
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Burmont Rd &amp; Marshall Rd - FS",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.293768,
+        39.941006
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Springfield Mall - east",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.350731,
+        39.914013
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Allegheny Av &amp; Belgrade St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.104258,
+        39.986264
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Richmond St &amp; Allegheny Av",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.101401,
+        39.983071
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Lansdowne Av",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.281962,
+        39.951614
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Shadeland Av - FS",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.292777,
+        39.946494
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Shadeland Av",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.292588,
+        39.946414
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Allegheny Av &amp; Emery St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.101873,
+        39.983331
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "State Rd &amp; Anderson Av",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.314014,
+        39.949836
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "State Rd &amp; Stanbridge Rd",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.317121,
+        39.948946
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "State Rd &amp; Anderson Av",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.31418,
+        39.94963
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 60th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.240307,
+        39.97586
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Aramingo Av &amp; Norris St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.122682,
+        39.974093
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Clifton Av &amp; Spruce St",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.283624,
+        39.918326
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "State Rd &amp; Township Line Rd - MBNS",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.324258,
+        39.946275
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "State Rd &amp; Township Line Rd - MBFS",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.323443,
+        39.946301
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Pk &amp; Edgemont Av - MBNS",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.290751,
+        39.931953
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Pk &amp; Beatty Rd",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.378916,
+        39.91501
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Pk &amp; Grandview Rd",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.372885,
+        39.913972
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Pike &amp; Grandview Rd",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.372566,
+        39.914079
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Malvern Av &amp; 63rd St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.247009,
+        39.983697
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "63rd St &amp; Lebanon Av",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.246661,
+        39.980912
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "63rd St &amp; Jefferson St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.246184,
+        39.97835
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 63rd - FS",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.244986,
+        39.975332
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 62nd St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.243651,
+        39.975499
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 61st St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.241879,
+        39.975693
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 59th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.238653,
+        39.976054
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 58th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.236904,
+        39.976248
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 57th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.235403,
+        39.976406
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 56th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.233761,
+        39.976591
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 55th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.231858,
+        39.976811
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 54th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.229908,
+        39.977013
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; Lancaster Av",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.22738,
+        39.977295
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Media St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.226176,
+        39.976855
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 50th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.22259,
+        39.975207
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Thomson St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.219747,
+        39.973748
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 47th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.216115,
+        39.971555
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Wyalusing Av",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.21516,
+        39.970973
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 45th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.212991,
+        39.969667
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 44th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.211541,
+        39.968772
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 43th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.209878,
+        39.967725
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 42nd St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.207662,
+        39.966391
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 41st St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.205564,
+        39.965093
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 40th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.20244,
+        39.963151
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Spring Garden St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.200353,
+        39.962004
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Saunders St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.198973,
+        39.961297
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 38th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.197016,
+        39.960267
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 36th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.193786,
+        39.958565
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "36th St &amp; Market St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.194218,
+        39.956281
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "36th St Trolley Portal Station",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.194162,
+        39.955335
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "33rd St Trolley Station",
+      "trolleys": "10, 34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.1897,
+        39.954773
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "30th St Trolley Station",
+      "trolleys": "10, 34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.1835,
+        39.954815
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "22nd St Trolley Station",
+      "trolleys": "10, 34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.176736,
+        39.953962
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "19th St Trolley Station",
+      "trolleys": "10, 34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.171637,
+        39.953327
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "33rd St Trolley Station",
+      "trolleys": "10, 34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.189676,
+        39.95488
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "15th St Trolley Station",
+      "trolleys": "10, 34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.165345,
+        39.952672
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "19th St Trolley Station",
+      "trolleys": "10, 34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.171483,
+        39.953425
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "22nd St Trolley Station",
+      "trolleys": "10, 34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.176571,
+        39.954051
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "30th St Trolley Station",
+      "trolleys": "10, 34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.183169,
+        39.954894
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 38th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.196721,
+        39.96024
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "36th St &amp; Market St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.194113,
+        39.956058
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "36th St &amp; Lancaster Av",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.193585,
+        39.958404
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Hamilton St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.19869,
+        39.96127
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Spring Garden St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.199952,
+        39.961923
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Haverford Av",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.201826,
+        39.9629
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Wallace St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.203371,
+        39.963857
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 41st St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.205386,
+        39.965102
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 42nd St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.207485,
+        39.966399
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Parrish St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.20956,
+        39.96767
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Ogden St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.210998,
+        39.968565
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Westminster St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.212283,
+        39.969353
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Wyalusing Av",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.214464,
+        39.970669
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 47th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.215938,
+        39.971564
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 49th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.219464,
+        39.973703
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 50th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.222389,
+        39.975234
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; 52nd St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.2266,
+        39.977186
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 54th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.229755,
+        39.977129
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 55th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.231704,
+        39.976927
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 56th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.233607,
+        39.976707
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 57th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.235249,
+        39.976522
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 58th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.23675,
+        39.976363
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 59th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.238499,
+        39.97617
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 60th St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.240153,
+        39.975976
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 61st St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.241725,
+        39.975809
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lansdowne Av &amp; 62nd St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.243497,
+        39.975615
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "63rd St &amp; Lansdowne Av - FS",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.245529,
+        39.975582
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "63rd St &amp; Jefferson St",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.24603,
+        39.978234
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "63rd St &amp; Columbia Av",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.246461,
+        39.980582
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; Summit St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.257315,
+        39.918088
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; 6th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.255852,
+        39.917791
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; 5th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.254613,
+        39.917504
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; 4th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.253044,
+        39.917144
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; 3rd St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.251841,
+        39.916866
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; 2nd St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.250567,
+        39.916579
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; Front St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.24921,
+        39.916363
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; Island Av",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.246376,
+        39.917099
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 72nd St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.244412,
+        39.918432
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 71st St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.243077,
+        39.919361
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 70th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.24148,
+        39.920483
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 69th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.240097,
+        39.921463
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 68th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.238441,
+        39.922621
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 67th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.236927,
+        39.923689
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 66th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.235614,
+        39.924615
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 65th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.234396,
+        39.925479
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 64th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.233142,
+        39.926352
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 63rd St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.231782,
+        39.927314
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 62nd St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.230765,
+        39.928017
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 60th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.227642,
+        39.930217
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 61st St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.229287,
+        39.929041
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 58th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.224673,
+        39.932309
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 57th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.223289,
+        39.933297
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 56th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.22181,
+        39.934339
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 55th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.22045,
+        39.935292
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 54th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.219054,
+        39.936262
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 52nd St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.216297,
+        39.938203
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 51st St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.215197,
+        39.938987
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 50th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.213907,
+        39.939886
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 48th St",
+      "trolleys": "11, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.211728,
+        39.941953
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 46th St",
+      "trolleys": "11, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.209797,
+        39.944323
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 45th St",
+      "trolleys": "11, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.208565,
+        39.94541
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 42nd St",
+      "trolleys": "11, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.207121,
+        39.946675
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "37th St Trolley Station",
+      "trolleys": "34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.197247,
+        39.950914
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "36th St Trolley Station",
+      "trolleys": "34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.194533,
+        39.953854
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "36th St Trolley Station",
+      "trolleys": "34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.19471,
+        39.953872
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "37th St Trolley Station",
+      "trolleys": "34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.197306,
+        39.951048
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 41st St",
+      "trolleys": "11, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.205593,
+        39.948055
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 42nd St",
+      "trolleys": "11, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.206907,
+        39.946987
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 43rd St",
+      "trolleys": "11, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.20834,
+        39.945767
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 46th St",
+      "trolleys": "11, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.209725,
+        39.944537
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 48th St",
+      "trolleys": "11, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.211716,
+        39.942176
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 51st St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.215102,
+        39.939192
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 52nd St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.216214,
+        39.938408
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 53rd St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.217598,
+        39.937438
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 54th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.218947,
+        39.936485
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 55th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.220308,
+        39.935524
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 56th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.221703,
+        39.934553
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 57th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.223218,
+        39.933485
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 58th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.224448,
+        39.93263
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 60th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.227535,
+        39.930457
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 61st St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.229191,
+        39.929282
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 63rd St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.231675,
+        39.927519
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 64th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.233047,
+        39.926557
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 65th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.234289,
+        39.925684
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 66th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.235531,
+        39.924803
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 67th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.236856,
+        39.923886
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 68th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.23837,
+        39.922817
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 69th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.240037,
+        39.921641
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 70th St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.241397,
+        39.920688
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 71st St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.242958,
+        39.919584
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 72nd St",
+      "trolleys": "34, 11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.244342,
+        39.918622
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; Front St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.248915,
+        39.916451
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; 2nd St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.250319,
+        39.916614
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; 3rd St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.251534,
+        39.916892
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; 4th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.252737,
+        39.917171
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; 5th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.254295,
+        39.91753
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; 6th St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.255486,
+        39.917808
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; Summit St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.25709,
+        39.91815
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "9th St &amp; Ridge Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.260545,
+        39.919921
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "9th St &amp; Summit Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.258866,
+        39.921142
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "9th St &amp; Summit Av - MBFS",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.257482,
+        39.92205
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "9th St &amp; Cedar Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.255994,
+        39.922566
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; Alfred Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.254279,
+        39.923697
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; Allen Dr Yeadon Loop",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.252542,
+        39.924525
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; Stetser Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.250817,
+        39.925102
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; Duncan Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.249175,
+        39.925617
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; Yeadon Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.247486,
+        39.92607
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; Church Ln",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.246565,
+        39.92631
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 65th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.244762,
+        39.929359
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "65th St &amp; Cobbs Creek Pkwy",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.243452,
+        39.929482
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "65th St &amp; Belmar Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.24108,
+        39.92905
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "65th St &amp; Chester Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.238897,
+        39.928628
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Kingsessing Av &amp; 61st St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.232386,
+        39.931045
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Kingsessing Av &amp; 62nd St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.233888,
+        39.929994
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Kingsessing Av &amp; 60th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.230316,
+        39.932479
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "60th St &amp; Chester Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.231399,
+        39.933632
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 59th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.229944,
+        39.934754
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 48th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.215344,
+        39.944958
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 47th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.213984,
+        39.945901
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 57th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.227187,
+        39.936642
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 56th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.225661,
+        39.937701
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 55th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.224301,
+        39.938654
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 54th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.222952,
+        39.939607
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 53rd St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.221556,
+        39.940577
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 52nd St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.220184,
+        39.941539
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 51st St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.219048,
+        39.942349
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 46th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.212682,
+        39.946827
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 45th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.211428,
+        39.9477
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 43rd St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.209135,
+        39.948356
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 42nd St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.207151,
+        39.948424
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 41st St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.205757,
+        39.948466
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "40th St Trolley Portal",
+      "trolleys": "34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.203345,
+        39.949533
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; Chester Av",
+      "trolleys": "11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.204977,
+        39.948599
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 42nd St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.206879,
+        39.948549
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 43rd St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.208945,
+        39.948481
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 45th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.211403,
+        39.947878
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 46th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.212658,
+        39.947006
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 47th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.213959,
+        39.94608
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 48th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.215285,
+        39.945154
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 51st St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.219012,
+        39.942519
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 52nd St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.220124,
+        39.941726
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 53rd St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.221485,
+        39.940764
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 54th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.222893,
+        39.939785
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 55th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.224253,
+        39.938832
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 56th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.225625,
+        39.937871
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 57th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.227163,
+        39.936802
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 59th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.229849,
+        39.93495
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 60th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.231469,
+        39.933784
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "60th St &amp; Kingsessing Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.230339,
+        39.932595
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Kingsessing Av &amp; 61st St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.232291,
+        39.93125
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Kingsessing Av &amp; 62nd St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.233793,
+        39.9302
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Kingsessing Av &amp; 65th St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.236963,
+        39.927982
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "65th St &amp; Chester St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.238223,
+        39.92893
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "65th St &amp; Windsor St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.241717,
+        39.929266
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "65th St &amp; Cobbs Creek Pkwy",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.243133,
+        39.929535
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; Church Ln",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.246044,
+        39.926577
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; Duncan Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.249045,
+        39.92576
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; Stetser Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.250699,
+        39.925245
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; Alfred Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.254161,
+        39.923875
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; Cedar Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.255946,
+        39.923012
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "10th St &amp; Mulberry Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.257349,
+        39.923621
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "10th St &amp; Wycombe Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.258471,
+        39.923096
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "10th St &amp; Summit St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.259641,
+        39.922553
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "10th St &amp; Ridge Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.261462,
+        39.921306
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "65th St &amp; Kingsessing Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.23714,
+        39.927902
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 60th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.244429,
+        39.944299
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 59th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.241899,
+        39.945197
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 58th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.240304,
+        39.945783
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 57th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.237327,
+        39.946386
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 56th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.235602,
+        39.946785
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 55th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.233746,
+        39.947246
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 54th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.231466,
+        39.947742
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 53rd St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.229612,
+        39.947766
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; Broomall St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.227912,
+        39.947727
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 51st St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.225456,
+        39.947715
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 50th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.223377,
+        39.947872
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; Florence Av",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.219503,
+        39.948312
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 47th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.217188,
+        39.94854
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 46th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.215061,
+        39.948786
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 45th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.213018,
+        39.949006
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 44th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.21127,
+        39.949181
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 43rd St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.20932,
+        39.949481
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 42nd St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.207265,
+        39.949736
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 41st St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.205859,
+        39.949761
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 41st St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.205658,
+        39.949885
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 42nd St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.206945,
+        39.949861
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 43rd St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.209154,
+        39.949641
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 44th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.211092,
+        39.949332
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 45th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.212828,
+        39.949148
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 46th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.214884,
+        39.948937
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 47th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.21701,
+        39.948691
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 48th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.219101,
+        39.948472
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 50th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.223199,
+        39.948041
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 51st St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.225266,
+        39.94783
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 52nd St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.227309,
+        39.947842
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 53rd St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.229317,
+        39.947846
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 54th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.231111,
+        39.947866
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 55th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.233522,
+        39.947442
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 56th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.235519,
+        39.946936
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 57th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.237763,
+        39.946431
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 58th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.239937,
+        39.945988
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 59th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.241698,
+        39.945411
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Av &amp; 60th St",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.244322,
+        39.944468
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Paschall Av",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.211652,
+        39.93998
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Grays Av &amp; Lindbergh Blvd",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.213682,
+        39.936128
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lindbergh Blvd &amp; Grays Av - FS",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.214429,
+        39.935282
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lindbergh Blvd &amp; 54th St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.215579,
+        39.933588
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 56th St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.217711,
+        39.931173
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 57th St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.219202,
+        39.930131
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 58th St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.220539,
+        39.929152
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 59th St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.221958,
+        39.928226
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; Edgewood Av",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.22385,
+        39.926935
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 61st St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.224844,
+        39.926241
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 62nd St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.226441,
+        39.925065
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 63rd St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.227671,
+        39.924157
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 64th St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.229067,
+        39.923204
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 65th St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.230285,
+        39.922305
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 66th St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.231562,
+        39.921432
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 67th St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.23284,
+        39.920524
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 68th St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.234401,
+        39.919446
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 69th St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.236056,
+        39.918297
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 70th St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.237428,
+        39.917327
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 71st St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.238965,
+        39.916249
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 72nd St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.240349,
+        39.915305
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; Island Av",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.243282,
+        39.913168
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Island Av &amp; Buist Av - FS",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.242744,
+        39.911195
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Island Av &amp; Tanager St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.2421,
+        39.909132
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Island Av &amp; 76th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.24155,
+        39.907391
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Island Av &amp; Lindbergh Blvd - FS",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.240403,
+        39.903855
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; Chester Av",
+      "trolleys": "11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.204966,
+        39.948492
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Island Av &amp; Lindbergh Blvd - FS",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.240461,
+        39.904257
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Island Av &amp; 76th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.241432,
+        39.907284
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Island Av &amp; Tanager St - FS",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.242029,
+        39.90915
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Island Av &amp; Buist Av",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.242661,
+        39.911186
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; Island Av - MBFS",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.242998,
+        39.913266
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 73rd St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.241816,
+        39.914129
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 72nd St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.240408,
+        39.9151
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 71st St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.239013,
+        39.91608
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 70th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.237452,
+        39.91713
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 69th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.236081,
+        39.918101
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 68th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.234425,
+        39.91925
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 67th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.232911,
+        39.920327
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 66th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.231587,
+        39.921236
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 65th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.230404,
+        39.922082
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 64th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.229126,
+        39.922972
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 63rd St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.227778,
+        39.923934
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 62nd St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.22656,
+        39.924842
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 61st St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.224868,
+        39.926044
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; Edgewood St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.223875,
+        39.926739
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 59th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.221994,
+        39.928039
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 58th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.220586,
+        39.928964
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 57th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.219226,
+        39.929935
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Elmwood Av &amp; 56th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.217747,
+        39.930986
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lindbergh Blvd &amp; Wheeler St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.216232,
+        39.932402
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lindbergh Blvd &amp; 54th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.215532,
+        39.9334
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lindbergh Blvd &amp; 53rd St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.214358,
+        39.935121
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Grays Av &amp; 52nd St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.213399,
+        39.936163
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Grays Av &amp; 51st St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.212251,
+        39.936991
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Paschall Av",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.211286,
+        39.939819
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Woodland Av",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.212429,
+        39.940794
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 47th St",
+      "trolleys": "11, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.210839,
+        39.943245
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Front St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.136358,
+        39.968851
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Belgrade St &amp; Clearfield St - detou",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.106768,
+        39.985111
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Belgrade St &amp; Indiana Av - detour",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.108804,
+        39.984045
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Belgrade St &amp; Birch St - FS detour",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.110829,
+        39.982979
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Belgrade St &amp; Cambria St - detour",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.111907,
+        39.98242
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Belgrade St &amp; Lehigh Av - detour",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.116099,
+        39.980217
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Belgrade St &amp; Huntingdon St - FS de",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.118799,
+        39.978653
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Berks St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.125833,
+        39.971869
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Palmer St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.1284,
+        39.970983
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Columbia Av",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.130423,
+        39.970265
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 2nd St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.13945,
+        39.9695
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 3rd St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.141386,
+        39.969799
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 4th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.142968,
+        39.96999
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 5th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.144905,
+        39.970218
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 7th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.148022,
+        39.970484
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 8th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.149853,
+        39.970568
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 11th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.154021,
+        39.970845
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 12th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.155603,
+        39.971045
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 16th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.162605,
+        39.971908
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 17th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.164151,
+        39.972116
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Ridge Av",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.166217,
+        39.97238
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 20th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.168874,
+        39.972715
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Corinthian Av",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.17022,
+        39.972888
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Poplar St &amp; 25th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.177403,
+        39.972492
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 26th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.178733,
+        39.973976
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 27th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.18028,
+        39.974202
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 28th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.181756,
+        39.974375
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 29th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.183361,
+        39.974574
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 31st St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.186549,
+        39.975009
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 33rd St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.188002,
+        39.975199
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 39th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.201683,
+        39.974511
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 41st St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.206268,
+        39.973966
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 42nd St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.208797,
+        39.973658
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Belmont Av",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.212094,
+        39.973315
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 49th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.219064,
+        39.972917
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 51st St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.223438,
+        39.971987
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 52nd St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.22579,
+        39.971473
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 54th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.228614,
+        39.971165
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 56th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.232477,
+        39.970761
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 57th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.234096,
+        39.970585
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 60th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.238988,
+        39.970039
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Haverford Av &amp; 61st St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.240781,
+        39.970899
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Haverford Av &amp; 62nd St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.242704,
+        39.971642
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Felton St - MBNS",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.244598,
+        39.970226
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 61st St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.241221,
+        39.969801
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 60th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.239366,
+        39.969897
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 57th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.234285,
+        39.97046
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 56th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.232667,
+        39.970636
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 54th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.228803,
+        39.971041
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 52nd St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.225908,
+        39.971357
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 51st St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.223745,
+        39.971845
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Lancaster Av",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.218521,
+        39.972978
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Belmont Av - FS",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.211964,
+        39.973208
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 42nd St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.208975,
+        39.973542
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 41st St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.206528,
+        39.973823
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 39th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.201802,
+        39.974297
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 31st St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.18675,
+        39.974938
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 29th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.183622,
+        39.974486
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 28th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.181969,
+        39.974286
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 27th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.180504,
+        39.974113
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 26th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.178946,
+        39.973896
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "26th St &amp; Poplar St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.179198,
+        39.972701
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Poplar St &amp; Stillman St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.178171,
+        39.97244
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "College Av &amp; 24th St - FS",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.175384,
+        39.97239
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Corinthian Av",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.170421,
+        39.972817
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 20th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.169087,
+        39.972636
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 19th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.16754,
+        39.972427
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Ridge Av",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.166572,
+        39.972309
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 17th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.164352,
+        39.972028
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 16th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.162806,
+        39.971828
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 12th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.155816,
+        39.970965
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 11th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.154222,
+        39.970756
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 8th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.150042,
+        39.97047
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 7th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.148211,
+        39.970386
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 5th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.145094,
+        39.970129
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 3rd St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.141599,
+        39.969711
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 2nd St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.139805,
+        39.969439
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Columbia Av",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.130542,
+        39.970122
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Palmer St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.128519,
+        39.97084
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Berks St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.125999,
+        39.971709
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Richmond St &amp; Huntingdon St - detou",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.117305,
+        39.977185
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Richmond St &amp; Lehigh Avt - detour",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.114842,
+        39.978473
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Richmond St &amp; Somerset St - detour",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.112439,
+        39.979726
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Richmond St &amp; Monmouth St - detour",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.109833,
+        39.98112
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Richmond St &amp; Ann St - detour",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.10891,
+        39.9816
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Richmond St &amp; Elkhart St - detour",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.107027,
+        39.982541
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Richmond St &amp; Clementine St - detou",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.104718,
+        39.983776
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Richmond St &amp; Allegheny Av - detour",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.103072,
+        39.984601
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Grays Av &amp; 49th St",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.210239,
+        39.938559
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 47th St",
+      "trolleys": "11, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.210838,
+        39.943451
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; 53rd St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.217681,
+        39.937242
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; 65th St - FS",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.244703,
+        39.929565
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "40th St &amp; Market St",
+      "trolleys": "34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.202021,
+        39.957259
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Woodland Av",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.212759,
+        39.940866
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Haverford Av &amp; 63rd St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.244641,
+        39.971895
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Aramingo Av &amp; York St - FS",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.120762,
+        39.975462
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Frankford Av &amp; Richmond St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.134338,
+        39.966008
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Frankford Av &amp; Richmond St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.134492,
+        39.966124
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Frankford Av &amp; Delaware Av",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.134485,
+        39.964812
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; Mill St",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.260053,
+        39.918091
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Baltimore Av - FS",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.221133,
+        39.947957
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Florence Av",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.220568,
+        39.947457
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Warrington Av",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.219284,
+        39.946401
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Springfield Av",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.217882,
+        39.945212
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Chester Av - FS",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.216398,
+        39.943978
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Kingsessing Av",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.215432,
+        39.943128
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Greenway Av",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.214031,
+        39.941939
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Island Av &amp; Suffolk Av - MBFS",
+      "trolleys": "36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.239352,
+        39.899525
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Kingsessing Av",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.215161,
+        39.943092
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Chester Av - FS",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.216633,
+        39.944326
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Springfield Av - FS",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.217835,
+        39.945346
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Warrington Av",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.219024,
+        39.946383
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Florence Av",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.220308,
+        39.947438
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "49th St &amp; Baltimore Av",
+      "trolleys": "34"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.221086,
+        39.948082
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Main St &amp; Powell Av",
+      "trolleys": "11"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.260608,
+        39.918244
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Glenwood Av &amp; Baltimore Pk",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.29224,
+        39.931134
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Glenwood Av &amp; Baltimore Pk",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.29211,
+        39.931214
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Chestnut St",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.263733,
+        39.960078
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Fairfax Rd",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.28643,
+        39.949495
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Irvington Rd",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.288652,
+        39.948444
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Rolling Rd &amp; Springfield Rd",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.330815,
+        39.934758
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Saxer Av &amp; Rolling Rd",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.33381,
+        39.928968
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Irvington Rd",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.288723,
+        39.948257
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Fairfax Rd",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.28649,
+        39.949307
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Congress Av",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.279066,
+        39.952824
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Beverly Blvd",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.273759,
+        39.955254
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Avon Rd",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.269006,
+        39.957443
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Walnut St",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.266465,
+        39.958681
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Chestnut St",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.263722,
+        39.959944
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 19th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.167339,
+        39.972507
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 34th St - MBFS",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.196472,
+        39.975126
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 34th St - MBNS",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.196733,
+        39.974841
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Burmont Rd &amp; Huey Av",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.3003,
+        39.946047
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Burmont Rd &amp; School Ln",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.302494,
+        39.947227
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Burmont Rd &amp; School Ln",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.302765,
+        39.947174
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Burmont Rd &amp; Huey Av",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.300607,
+        39.946012
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Lansdowne Av",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.28214,
+        39.9514
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Springfield Mall - west",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.350743,
+        39.914094
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Merion Av",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.216277,
+        39.972814
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Grays Av &amp; 51st St",
+      "trolleys": "34, 36"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.212227,
+        39.937188
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; Merion Av",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.216431,
+        39.972725
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "MacDade Blvd &amp; Wayne Av",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.280489,
+        39.910246
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 24th St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.175844,
+        39.972453
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Allegheny Av &amp; Thompson St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.102882,
+        39.984708
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Chester Av &amp; Yeadon Av",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.247368,
+        39.926213
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "10th St &amp; Main St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.263141,
+        39.920121
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Malvern Av &amp; 63rd St - FS",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.24682,
+        39.98367
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "15th St Trolley Station",
+      "trolleys": "10, 34, 11, 36, 13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.165369,
+        39.952502
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Lansdowne Av - FS",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.282269,
+        39.95148
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "65th St &amp; Belmar St",
+      "trolleys": "13"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.240879,
+        39.929104
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Frankford Av &amp; Delaware Av - FS",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.134342,
+        39.965205
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Malvern Av &amp; 63rd St Loop - 2 onsit",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.245945,
+        39.98383
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Delaware Av &amp; Frankford Av Loop",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.134178,
+        39.964936
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Girard Av &amp; 62nd St",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.243216,
+        39.970063
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Lancaster Av &amp; Powelton Av",
+      "trolleys": "10"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.195542,
+        39.959631
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Frankford Av &amp; Girard Av - FS",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.134493,
+        39.96865
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Belgrade St &amp; Somerset St - detour",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.113671,
+        39.981487
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Thompson St &amp; Cumberland St - detou",
+      "trolleys": "15"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.11959,
+        39.975986
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Walnut St",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.266346,
+        39.958859
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Avon St",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.268935,
+        39.957631
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Beverly Blvd",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.273794,
+        39.955459
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Garrett Rd &amp; Congress Av",
+      "trolleys": "101, 102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.279031,
+        39.952976
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Burmont Rd &amp; Morgan Av",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.306198,
+        39.949159
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Rolling Rd &amp; Leamy Av",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.33752,
+        39.926463
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; Woodland Av Stn",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.340001,
+        39.924627
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Thomson Av &amp; Thomson Av Stn",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.345176,
+        39.921283
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Baltimore Pk &amp; Beatty Rd",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.378514,
+        39.915054
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "State St &amp; Providence Rd - FS",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.381287,
+        39.91684
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "State St &amp; Providence Rd",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.381181,
+        39.916715
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Thompson Av &amp; Thompson Av Stn - FS",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.345247,
+        39.921167
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Woodland Av &amp; Woodland Av Stn",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.339671,
+        39.924555
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Rolling Rd &amp; Leamy Av - FS",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.337343,
+        39.926365
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Rolling Rd &amp; Saxer Av",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.333775,
+        39.928763
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Windsor Cir &amp; Springfield Rd - FS",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.329989,
+        39.934597
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Rolling Rd &amp; Scenic Rd",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.326698,
+        39.940841
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "State Rd &amp; Stanbridge Rd",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.317263,
+        39.948767
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Burmont Rd &amp; Morgan Av",
+      "trolleys": "101"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.306564,
+        39.949239
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Burmont Rd &amp; Cheswold Rd",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.296408,
+        39.943285
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Bridge St &amp; Dennison Av",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.291264,
+        39.935176
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Clifton Av &amp; Providence Rd",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.28711,
+        39.922355
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Clifton Av &amp; Magnolia Av",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.285438,
+        39.92022
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Clifton Av &amp; Spruce St",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.283884,
+        39.91838
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Clifton Av &amp; Bartram Av",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.28141,
+        39.915816
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Clifton Av &amp; Andrews Av",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.278796,
+        39.913028
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Clifton Av &amp; MacDade Blvd",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.277677,
+        39.911724
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Clifton Av &amp; Andrews Av",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.278548,
+        39.912974
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Clifton Av &amp; Bartram Av",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.281151,
+        39.915762
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Clifton Av &amp; Magnolia Av",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.285202,
+        39.920149
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Clifton Av &amp; Providence Rd",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.286886,
+        39.922301
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Bridge St &amp; Dennison Av",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.29104,
+        39.935077
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Burmont Rd &amp; Marshall Rd",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.293744,
+        39.941194
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  },
+  {
+    "properties": {
+      "name": "Burmont Rd &amp; Jones St",
+      "trolleys": "102"
+    },
+    "geometry": {
+      "coordinates": [
+        -75.29662,
+        39.943776
+      ],
+      "type": "Point"
+    },
+    "type": "Feature"
+  }
+]
